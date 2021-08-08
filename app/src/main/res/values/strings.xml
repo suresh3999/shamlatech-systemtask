@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SystemTaskShamlatech</string>
+    <string name="id">Id</string>
+    <string name="email">Email</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+</resources>
